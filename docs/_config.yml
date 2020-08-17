@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
 
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -78,7 +78,7 @@ author:
   location         : "Somewhere"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-email"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:cannikin-hearts@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
