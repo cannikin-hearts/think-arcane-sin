@@ -4,32 +4,32 @@ tags:
   - image
 ---
 
-> When, rising from the bed of death,
-> O’erwhelmed with guilt and fear,
-> I view my Maker face to face,
-> O how shall I appear?
-> If yet, while pardon may be found,
-> And mercy may be sought,
-> My heart with inward horror shrinks,
-> And trembles at the thought;
-> 
-> When thou, O Lord, shalt stand disclosed
-> In majesty severe,
-> And sit in judgement on my soul,
-> O how shall I appear?
-> But thou hast told the troubled mind
-> Who does her sins lament,
-> The timely tribute of her tears,
-> Shall endless woe prevent.
-> 
-> Then see the sorrow of my heart,
-> Ere yet it be too late;
-> And hear my Saviour’s dying groans,
-> To give those sorrows weight.
-> For never shall my soul despair
-> Her pardon to procure,
-> Who knows thine only Son has died
-> To make her pardon sure.
+> When, rising from the bed of death,  
+> O’erwhelmed with guilt and fear,  
+> I view my Maker face to face,  
+> O how shall I appear?  
+> If yet, while pardon may be found,  
+> And mercy may be sought,  
+> My heart with inward horror shrinks,  
+> And trembles at the thought;  
+>   
+> When thou, O Lord, shalt stand disclosed  
+> In majesty severe,  
+> And sit in judgement on my soul,  
+> O how shall I appear?  
+> But thou hast told the troubled mind  
+> Who does her sins lament,  
+> The timely tribute of her tears,  
+> Shall endless woe prevent.  
+>   
+> Then see the sorrow of my heart,  
+> Ere yet it be too late;  
+> And hear my Saviour’s dying groans,  
+> To give those sorrows weight.  
+> For never shall my soul despair  
+> Her pardon to procure,  
+> Who knows thine only Son has died  
+> To make her pardon sure.  
 
 Well, Joseph Addison (1672-1719) doesn't sound excited for Judgement Day. I'd encourage you to [go play the music](https://hymn.singer.ga/listing/when_rising_from_the_bed_of_death.html), and hum or sing along to Tallis' THIRD MODE MELODY if you like. Its not well known, set in a somber Phrygian mode.
 
@@ -59,10 +59,10 @@ Oh, it was all a dream? Huh, somehow my imagination was stuck in the firey night
 
 ### One drop of empathy
 
-> Oh, Thou who burn'st in Heart for those who burn
-> In Hell, whose fires thyself shall feed in turn;
-> How long be crying, ``Mercy on them, God!''
-> Why, who art Thou to teach, and He to learn?
+> Oh, Thou who burn'st in Heart for those who burn  
+> In Hell, whose fires thyself shall feed in turn;  
+> How long be crying, ``Mercy on them, God!''  
+> Why, who art Thou to teach, and He to learn?  
 
 - Quatrains of Omar Khayyam
 
